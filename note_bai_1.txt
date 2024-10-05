@@ -1,0 +1,7 @@
+3. Tham chiếu
+.C++ cho phép khai báo 1 biến tham chiếu dùng để tham chiếu 1 cái biến đang tồn tại trong bộ nhớ.
+. Mọi thay đổi trên biến tham chiếu đều làm thay đổi đến biến được tham chiếu. BTC được coi là 1 bí danh khác của 1 biến.(tức là có thể khác tên nhưng là 1).
+
+- Hằng tham chiếu.
+. Hằng tham chiếu cũng có thể tham chiếu đến 1 biến tuy nhiên không thể thay đổi giá trị của vùng nhớ mà hằng tham chiếu đang tham chiếu đến.
+-Chồng hàm
